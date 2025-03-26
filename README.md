@@ -33,11 +33,12 @@ A lightweight Python script to merge multiple PDF files into a single document u
 
 ## 📄 Example Output
 After running the script, you'll see something like:
-
+```
 Added: file1.pdf
 Added: file2.pdf
 
 ✅ Merged 2 PDFs into 'merged_output.pdf'
+```
 
 ## 📌 Notes
 
@@ -52,9 +53,9 @@ Added: file2.pdf
 
 
 ## 📁 Project Structure
-
+```
 pdf-merger/ 
     ├── merge_pdfs.py # Main script 
     ├── venv/ # Python virtual environment 
     └── pdfs_to_merge/ # Folder to drop PDF files for merging
-
+```
