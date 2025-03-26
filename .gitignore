@@ -1,2 +1,5 @@
 # Ignore the PDF drop folder
 pdfs_to_merge/
+
+# Ignore macOS system files
+.DS_Store
